@@ -53,3 +53,16 @@ A Reverse Parking System designed to assist drivers in safely parking their vehi
 - Camera Integration: Add a rear-view camera for enhanced visibility.  
 - **AI Assistance: Incorporate AI to predict and suggest optimal parking maneuvers.  
 
+# Simulation Outputs
+1. No obstacle on either side
+![image](https://github.com/user-attachments/assets/21e410ff-b2ab-482f-9d78-f33046a97b1f)
+2. Obstacle on front side
+![image](https://github.com/user-attachments/assets/495ab7b6-b0fa-4548-856d-d648f13d4761)
+3. Obstacle on rear side
+![image](https://github.com/user-attachments/assets/c5e79da6-e3cb-460e-9d0b-6ea313a566ba)
+4. Obstacle on both front and rear side
+![image](https://github.com/user-attachments/assets/39fb5252-2666-4c7b-a899-109fb584112c)
+
+
+
+
